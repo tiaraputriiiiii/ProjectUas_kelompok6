@@ -12,10 +12,10 @@ Project : Membuat Sistem Checklist Kebersihan Toilet
 - [Link Dokumentasi YouTube](https://youtu.be/AkyfTfaB6Hk?si=zKpqTrL3Aqm6GTnT)
 
 
-- [Link Pdf Proses Pembuatan]([http://bit.ly/47eM9eJ](https://drive.google.com/file/d/1yA5gEotQnVc3kkQQGKy9QSEKU8UQXqFT/view))
+- [Link Pdf Proses Pembuatan](https://drive.google.com/file/d/1yA5gEotQnVc3kkQQGKy9QSEKU8UQXqFT/view)
 
 
-- [Link Demo on Web Hosting]([https://bit.ly/3FKylNY](https://projectuaskelompok6.000webhostapp.com/login.php))
+- [Link Demo on Web Hosting](https://projectuaskelompok6.000webhostapp.com/login.php)
 
 
 
